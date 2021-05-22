@@ -2,10 +2,9 @@
 
 - 🔭 I’m currently pursuing my B.Tech in CSE from Haldia Institute of Technology.
 - 🌱 I’m currently working as a Summer Research Intern @HKUST in the domain of AI and Reinforcement Learning.
-- 👯 I’m looking to collaborate on various open-sourced Machine Learning, Deep Learning and Natural Language Processing case studies, research and proojects!
+- 👯 I’m looking to collaborate on various open-sourced Machine Learning, Deep Learning, and Natural Language Processing case studies, research, and projects!
 - 🤔 I’m looking for help with Flutter and Java!
 - 💬 Ask me about Python, Data Structures, Data Science, and Artificial Intelligence!
-- 📫 How to reach me: ...
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I find AI-s more interesting than Humans. 😁
 
