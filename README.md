@@ -1,4 +1,4 @@
-### Hola! I am Sukanya! 👋
+### Hola! I am Sukanya! 🤗 👋
 
 - 🔭 I’m currently pursuing my B.Tech in CSE from Haldia Institute of Technology.
 - 🌱 I’m currently working as a Summer Research Intern @HKUST in the domain of AI and Reinforcement Learning.
