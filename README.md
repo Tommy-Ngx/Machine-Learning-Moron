@@ -62,9 +62,9 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" />][hackerrank]
 
-
+---
 <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Machine-Learning-Moron.Machine-Learning-Moron" alt="Vistor Badge"></a>
-
+---
 [instagram]: https://www.instagram.com/s.u.k.a.n.y.a.__/
 [linkedin]: https://www.linkedin.com/in/sukannya/
 [leetcode]: https://leetcode.com/sukannya472/
