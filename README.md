@@ -55,6 +55,8 @@
 [<img align="left" alt="kite" width="26px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/kite-logo.png" />]
 [<img align="left" alt="sklearn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />]
 
+---
+
 
 ## Connect with me: 🥤
 
