@@ -56,6 +56,7 @@
 <img align="left" alt="bigquery" width="30px" src="https://storage.googleapis.com/gweb-cloudblog-publish/images/bigquery2Blogoydo0.max-200x200.PNG"/>
 <img align="left" alt="gcp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg"/>
 <img align="left" alt="aws" width="26px" src="https://essencesolusoft.com/assets/services/cloud/aws/aws-logo.svg"/>
+<img align="left" alt="kaggle" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"/>
 <br />
 <br />
 
