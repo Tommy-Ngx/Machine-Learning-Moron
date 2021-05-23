@@ -36,6 +36,7 @@
 ➡️ [more blog posts...](https://sukanyabag.medium.com/)
 
 ---
+<br />
 
 ## Languages and Tools:
 
@@ -47,6 +48,9 @@
 [<img align="left" alt="Colaboratory" width="26px" src="https://miro.medium.com/max/512/0*ffbATxpDRokOBXzE.png" />]
 [<img align="left" alt="Java" width="26px" src="https://www.eazycollect.co.uk/images/java-logo200.jpg" />]
 [<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />]
+
+<br />
+<br />
 
 ## Connect with me: 🥤
 
