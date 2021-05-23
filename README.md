@@ -52,7 +52,6 @@
 <img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
 <img align="left" alt="pcharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 <img align="left" alt="javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
-<img align="left" alt="fastai" width="26px" src="https://miro.medium.com/max/265/1*bUZKHfAugVeXAkl0TGClCA.png"/>
 <img align="left" alt="bigquery" width="30px" src="https://storage.googleapis.com/gweb-cloudblog-publish/images/bigquery2Blogoydo0.max-200x200.PNG"/>
 <img align="left" alt="gcp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg"/>
 <img align="left" alt="aws" width="26px" src="https://essencesolusoft.com/assets/services/cloud/aws/aws-logo.svg"/>
@@ -60,7 +59,6 @@
 <img align="left" alt="html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 <img align="left" alt="css" width="19px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
 <img align="left" alt="pgsql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
-<img align="left" alt="ibmspss" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/SPSS_An_IBM_Company_logo.svg" />
 <img align="left" alt="huggingface" width="26px" src="https://ia802805.us.archive.org/15/items/github.com-huggingface-transformers_-_2020-02-12_22-24-48/cover.jpg" />
 <br />
 <br />
