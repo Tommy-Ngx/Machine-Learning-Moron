@@ -53,7 +53,8 @@
 <img align="left" alt="pcharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 <img align="left" alt="javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 <img align="left" alt="fastai" width="26px" src="https://miro.medium.com/max/265/1*bUZKHfAugVeXAkl0TGClCA.png"/>
-<img align="left" alt="bigquery" width="26px" src="https://storage.googleapis.com/gweb-cloudblog-publish/images/bigquery2Blogoydo0.max-200x200.PNG"/>
+<img align="left" alt="bigquery" width="30px" src="https://storage.googleapis.com/gweb-cloudblog-publish/images/bigquery2Blogoydo0.max-200x200.PNG"/>
+<img align="left" alt="gcp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg"/>
 <br />
 <br />
 
