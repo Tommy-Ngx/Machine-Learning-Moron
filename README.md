@@ -45,8 +45,15 @@
 [<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>]
 [<img align="left" alt="Spyder" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"/>]
 [<img align="left" alt="Colaboratory" width="26px" src="https://miro.medium.com/max/512/0*ffbATxpDRokOBXzE.png"/>]
-[<img align="left" alt="Java" width="26px" src="https://www.eazycollect.co.uk/images/java-logo200.jpg"/>]
+[<img align="left" alt="Java" width="26px" src="https://www.svgrepo.com/show/71269/java.svg"/>]
 [<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>]
+[<img align="left" alt="Plotly" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Plotly_Logo.png" />]
+[<img align="left" alt="Scrapy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Scrapy_logo.jpg" />]
+[<img align="left" alt="pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />]
+[<img align="left" alt="kaggle" width="26px" src="https://en.wikipedia.org/wiki/Kaggle#/media/File:Kaggle_logo.png" />]
+[<img align="left" alt="pcharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />]
+[<img align="left" alt="kite" width="26px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/kite-logo.png" />]
+[<img align="left" alt="sklearn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />]
 
 
 ## Connect with me: 🥤
