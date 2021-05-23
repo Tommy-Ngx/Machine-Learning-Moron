@@ -40,7 +40,7 @@
 
 ---
 
-## ⚙ Languages and Tools I love to work with:
+## ⚙ Languages, Tools and Platforms I love to work with:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"/>
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"/>
@@ -55,6 +55,7 @@
 <img align="left" alt="fastai" width="26px" src="https://miro.medium.com/max/265/1*bUZKHfAugVeXAkl0TGClCA.png"/>
 <img align="left" alt="bigquery" width="30px" src="https://storage.googleapis.com/gweb-cloudblog-publish/images/bigquery2Blogoydo0.max-200x200.PNG"/>
 <img align="left" alt="gcp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg"/>
+<img align="left" alt="aws" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
 <br />
 <br />
 
