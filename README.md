@@ -21,7 +21,6 @@
 ---
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=Machine-Learning-Moron&&show_icons=true&title_color=ffffff&icon_color=2E3332&text_color=2E3332&bg_color=F12761"/>
-<img align="left" height="206" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machine-Learning-Moron&hide=css&theme=nord" alt="Machine-Learning-Moron"/>  
 </p>
 
 ---
