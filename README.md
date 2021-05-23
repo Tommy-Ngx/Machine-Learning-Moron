@@ -52,6 +52,7 @@
 <img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
 <img align="left" alt="pcharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 <img align="left" alt="javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+<img align="left" alt="fastai" width="26px" src="https://miro.medium.com/max/265/1*bUZKHfAugVeXAkl0TGClCA.png"/>
 <br />
 <br />
 
