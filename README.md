@@ -29,6 +29,7 @@
 - [Text Summarization using BERT, GPT2, XLNet](https://medium.com/analytics-vidhya/text-summarization-using-bert-gpt2-xlnet-5ee80608e961)
 - [Activation Functions — All You Need To Know!](https://medium.com/analytics-vidhya/activation-functions-all-you-need-to-know-355a850d025e)
 - [Transformers — Let’s Dive Deeeep!](https://medium.com/analytics-vidhya/transformers-lets-dive-deeeep-7784bdb20807)
+- [Federated Learning – A Beginners Guide](https://www.analyticsvidhya.com/blog/2021/05/federated-learning-a-beginners-guide/)
 
 <!-- BLOG-POST-LIST:END -->
 
