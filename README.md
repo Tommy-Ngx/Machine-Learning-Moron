@@ -28,6 +28,7 @@
 - [Automated Hyperparameter Tuning with Keras Tuner and TensorFlow 2.0](https://medium.com/analytics-vidhya/automated-hyperparameter-tuning-with-keras-tuner-and-tensorflow-2-0-31ec83f08a62)
 - [Text Summarization using BERT, GPT2, XLNet](https://medium.com/analytics-vidhya/text-summarization-using-bert-gpt2-xlnet-5ee80608e961)
 - [Activation Functions — All You Need To Know!](https://medium.com/analytics-vidhya/activation-functions-all-you-need-to-know-355a850d025e)
+- [Transformers — Let’s Dive Deeeep!](https://medium.com/analytics-vidhya/transformers-lets-dive-deeeep-7784bdb20807)
 
 <!-- BLOG-POST-LIST:END -->
 
