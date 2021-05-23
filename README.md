@@ -1,7 +1,7 @@
-### Hi there, I'm Sukanya - aka Machine Learning Moron!🤓👋
+##  Hi there, I'm Sukanya - aka Machine Learning Moron!🤓👋
 
 
-## I'm a Student, pursuing B.Tech in CSE, from Haldia Institute of Technology!👩‍🎓
+### I'm a Student, pursuing B.Tech in CSE, from Haldia Institute of Technology!👩‍🎓
 
 
 - 🔭 I am working as a Summer Research Intern @HKUST in the domain of AI and Reinforcement Learning.
