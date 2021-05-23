@@ -39,7 +39,7 @@
 
 ---
 
-## Languages and Tools:
+## ⚙ Languages and Tools I love to work with:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"/>
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"/>
@@ -55,7 +55,7 @@
 <br />
 
 
-## Connect with me: 🥤
+## Connect with me: 🙋‍♀️🥤
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
