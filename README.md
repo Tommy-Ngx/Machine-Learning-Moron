@@ -39,14 +39,14 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"/>]
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"/>]
-[<img align="left" alt="TensorFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/>]
-[<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>]
-[<img align="left" alt="Spyder" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"/>]
-[<img align="left" alt="Colaboratory" width="26px" src="https://miro.medium.com/max/512/0*ffbATxpDRokOBXzE.png"/>]
-[<img align="left" alt="Java" width="26px" src="https://www.svgrepo.com/show/71269/java.svg"/>]
-[<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"/>
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"/>
+<img align="left" alt="TensorFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/>
+<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
+<img align="left" alt="Spyder" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"/>
+<img align="left" alt="Colaboratory" width="26px" src="https://miro.medium.com/max/512/0*ffbATxpDRokOBXzE.png"/>
+<img align="left" alt="Java" width="26px" src="https://www.svgrepo.com/show/71269/java.svg"/>
+<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
 <img align="left" alt="pcharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 
 ---
