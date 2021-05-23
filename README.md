@@ -11,6 +11,7 @@
 - 👩 Pronouns: She/Her
 - 🤔 I’m looking for help with Flutter and Java!
 - 🤣 Fun fact: I find AI-s more interesting than Humans. 😁
+---
 
 ### Spotify Playing 🎧
 
@@ -18,11 +19,6 @@
 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Machine-Learning-Moron&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-### Connect with me: 🥤
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Medium_logo_Wordmark_Black.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ---
 
@@ -36,6 +32,15 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://sukanyabag.medium.com/)
+---
+
+### Connect with me: 🥤
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Medium_logo_Wordmark_Black.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+---
+
 
 
 [website]: https://sukanyabag.medium.com/
