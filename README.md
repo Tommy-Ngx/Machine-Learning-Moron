@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with Flutter and Java!
 - 🤣 Fun fact: I find AI-s more interesting than Humans. 😁
 
-## I am 24/7 into music! I love to play guitar too. 🎼🎸🎶 
+### I am 24/7 into music! I love to play guitar too. 🎼🎸🎶 
 
 ### Spotify Playing 🎧👀
 
