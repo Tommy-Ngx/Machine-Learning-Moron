@@ -46,7 +46,7 @@
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
 <img align="left" alt="Spyder" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"/>
 <img align="left" alt="Colaboratory" width="26px" src="https://miro.medium.com/max/512/0*ffbATxpDRokOBXzE.png"/>
-<img align="left" alt="Java" width="26px" src="https://www.svgrepo.com/show/71269/java.svg"/>
+<img align="left" alt="Java" width="26px" src="https://thumbs.dreamstime.com/z/java-logo-editorial-illustrative-white-background-eps-download-vector-jpeg-banner-java-logo-editorial-illustrative-white-208329454.jpg"/>
 <img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
 <img align="left" alt="pcharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 <img align="left" alt="javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
