@@ -1,4 +1,4 @@
-<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">I'm  Sukanya Bag. <img src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" height="40px" width="40px"></h1><a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Machine-Learning-Moron.Machine-Learning-Moron" alt="Vistor Badge"></a>
+<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">I'm  Sukanya Bag. <img src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" height="120px" width="40px"></h1><a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Machine-Learning-Moron.Machine-Learning-Moron" alt="Vistor Badge"></a>
 
 ### I'm a student, pursuing B.Tech in CSE, from Haldia Institute of Technology!👩‍🎓
 
