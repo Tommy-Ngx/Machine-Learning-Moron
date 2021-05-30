@@ -27,7 +27,7 @@
 </p>
 
 ---
-## I write a lot of technical blogs. Read my latest blog posts! 💻🤙
+## I write a lot of technical blogs. Read my latest published blog posts!💻📌
 
 <!-- BLOG-POST-LIST:START -->
 - [Automated Hyperparameter Tuning with Keras Tuner and TensorFlow 2.0](https://medium.com/analytics-vidhya/automated-hyperparameter-tuning-with-keras-tuner-and-tensorflow-2-0-31ec83f08a62)
