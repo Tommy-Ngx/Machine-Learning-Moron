@@ -23,7 +23,7 @@
 
 ---
 <p align="left">
-<img src = "https://github-readme-stats.vercel.app/api?username=Machine-Learning-Moron&&show_icons=true&title_color=ffffff&icon_color=2E3332&text_color=2E3332&bg_color=F12761"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=Machine-Learning-Moron&&show_icons=true&title_color=ffffff&icon_color=2E3332&text_color=2E3332&bg_color=FDCA58"/>
 </p>
 
 ---
