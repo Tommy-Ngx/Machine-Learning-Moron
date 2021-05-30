@@ -7,7 +7,7 @@
 ### I'm a student, pursuing B.Tech in CSE, from Haldia Institute of Technology!👩‍🎓
 
 
-- 🔭 I am working as a Summer Research Intern @HKUST in the domain of Deep Reinforcement Learning.
+- 🔭 I am working as a Summer Research Intern @HKUST in the domain of Deep Reinforcement Learning.🤖
 - 🌱 I’m currently learning everything XD🤣
 - 👯  I’m looking to collaborate on various open-sourced Machine Learning, Deep Learning, and Natural Language Processing case studies and projects!
 - 💡 Ask me about Python, Data Structures, Data Science, and Artificial Intelligence!
