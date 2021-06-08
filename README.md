@@ -1,4 +1,4 @@
-<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">I'm  Sukanya Bag. <img src="https://i.pinimg.com/originals/9a/9a/9b/9a9a9b634f83bd01ad1318702749d7ba.png" height="40px" width="40px"></h1><a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Machine-Learning-Moron.Machine-Learning-Moron" alt="Vistor Badge"></a>
+<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">I'm  Sukanya. <img src="https://i.pinimg.com/originals/9a/9a/9b/9a9a9b634f83bd01ad1318702749d7ba.png" height="40px" width="40px"></h1><a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Machine-Learning-Moron.Machine-Learning-Moron" alt="Vistor Badge"></a>
 
 <div>
 <img align="right" alt="GIF" height="300px" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif"/>
