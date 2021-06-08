@@ -67,7 +67,9 @@
 
 
 ## Connect with me and Grab a Coffee! 🙋‍♀️🥤
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sukannya" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sukannya?trk=profile-badge">Sukanya Bag</a></div>
+              
 [<img align="left" alt="sukanyabagig" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 [<img align="left" alt="sukanyabagln" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 [<img align="left" alt="sukanyabaglc" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
