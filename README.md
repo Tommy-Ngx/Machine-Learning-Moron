@@ -71,6 +71,7 @@
 [<img align="left" alt="sukanyabagln" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 [<img align="left" alt="sukanyabaglc" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
 [<img align="left" alt="sukanyabaghr" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" />][hackerrank]
+[<img align="left" alt="sukanyabagfb" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][kaggle]
 [<img align="left" alt="sukanyabagfb" width="22px" src="https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png" />][facebook]
 
 
@@ -79,4 +80,4 @@
 [leetcode]: https://leetcode.com/sukannya472/
 [hackerrank]: https://www.hackerrank.com/sukannya472
 [facebook]: https://www.facebook.com/sukanya.bag.904/
-
+[kaggle]: https://www.kaggle.com/sukanyabag
